@@ -1,0 +1,1 @@
+This is another very basic project I have done, to add in my portfolio for my first steps as a developer. It is my CV, but using an HTML page. For this project, I learned and I used the framework called Tailwind CSS
